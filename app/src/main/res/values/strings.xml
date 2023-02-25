@@ -1,0 +1,18 @@
+<resources>
+    <string name="no_aritmatic_function_found">unable to find arithmetic function on image input</string>
+    <string name="no_text_found">no text found in image</string>
+    <string name="wrong_number_format">wrong number format</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="input">input</string>
+    <string name="result">result</string>
+    <string name="take_picture">take picture</string>
+    <string name="choose_your_storage">Choose your storage</string>
+    <string name="use_file_storage">Use file storage</string>
+    <string name="use_database_storage">Use database storage</string>
+    <string name="history">History</string>
+    <string name="input_view">Input:</string>
+    <string name="result_view">Result:</string>
+    <string name="image_input">Image Input</string>
+    <string name="encrypted_file">Encrypted File</string>
+    <string name="file_system_storage">File System Storage</string>
+</resources>
